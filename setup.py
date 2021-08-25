@@ -11,15 +11,15 @@ install_requires = [
 ]
 
 
-with open('README.rst', 'r') as f:
-    long_description = f.read()
+with open('README.rst', 'r',encoding='utf-8') as fh:
+    long_description = fh.read()
 
 
 setup(
     name='tts_offline',
     packages=['tts_offline', 'tts_offline.drivers'],
     version='1.0',
-   description='Thư viện chuyển đổi văn bản thành giọng nói. Hoạt động Offline, đáp ứng nhanh.',
+    description='Thư viện chuyển đổi văn bản thành giọng nói. Hoạt động Offline, đáp ứng nhanh.',
     long_description=long_description,
     summary='Thư viện chuyển đổi văn bản - giọng nói hỗ trợ đa công cụ',
     author='Edit by Duy.hpe@gmail.com',
