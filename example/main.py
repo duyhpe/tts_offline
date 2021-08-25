@@ -1,5 +1,5 @@
 import tts_offline
-Máy_tính = tts_offline.init() # Khởi tạo 1 đối tượng mới
+Máy_tính = tts_offline.khoitao() # Khởi tạo 1 đối tượng mới
 
 """ Tốc độ đọc"""
 Tốc_Độ_Đọc = Máy_tính.getProperty('rate')       # Lấy thông tin tốc độ đọc hiện tại
