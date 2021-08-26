@@ -155,7 +155,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'pyttsx3', 'pyttsx3 Documentation',
-     author, 'pyttsx3', 'One line description of project.',
+    (master_doc, 'tts offline', 'Thư viện chuyển đổi văn bản thành giọng nói',
+     author, 'tts_offline', 'Tài liệu thư viện chuyển đổi ngôn ngữ Người - Máy',
      'Miscellaneous'),
 ]
