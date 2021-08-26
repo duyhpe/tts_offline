@@ -1,10 +1,10 @@
-==================================
-pyttsx3 - Text-to-speech x-platform
-==================================
+====================================================================
+tts_offline - Thư viện chuyển đổi văn bản thành giọng nói cho Python
+====================================================================
 
-This documentation describes the pyttsx3 Python package v |release| and was rendered on |today|.
+Đây là tài liệu thư viện tts_offline cho Python được tạo ngày |today|.
 
-.. rubric:: Table of Contents
+.. rubric:: Mục lục
 
 .. toctree::
    :maxdepth: 2
@@ -15,7 +15,7 @@ This documentation describes the pyttsx3 Python package v |release| and was rend
 
 
 
-.. rubric:: Project Links
+.. rubric:: Tài liệu tham khảo
 
 * `Project home page at GitHub`__
 * `Package listing in PyPI`__
